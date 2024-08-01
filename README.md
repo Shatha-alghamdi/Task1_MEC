@@ -37,7 +37,8 @@
 
 
 # هنا الورك وأيضًا يوجد له مفصل مثبت بالسرفو موتر: 
-![b298e886-be38-4681-afbf-ece1bb5eeadd](https://github.com/user-attachments/assets/077f08f3-22e6-43e8-affe-a1106695ce61)
+![1deb66e7-796d-4e0b-b28b-e19d9de31e93](https://github.com/user-attachments/assets/0b5718b6-d8d2-4bdc-9dc6-b6079f6eb5b4)
+
 
 # أيضًا باستخدام منصة التصميم TinkerCAD، يمكننا البدء بتصميم الأجزاءالأساسية لقدم الروبوت مع مراعاة مواضع تركيب محركات السيرفو.
 ![6e798ba1-6c75-489c-a270-70146c5e22cb](https://github.com/user-attachments/assets/00fb37d8-eed3-4d47-bdca-efde5296bde0)
